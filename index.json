@@ -1,16 +1,6 @@
 {
   "themes": [
     {
-      "id": "community-test",
-      "name": "Community Test",
-      "author": "Capomaus",
-      "description": "A small sample theme with its own sounds, logo, video and loading screens.",
-      "size": 436790,
-      "sha256": "8376c13e3e39bb09d3dd0bb0f66c9f829d2dd2231f9720de62d611862c1a2d4a",
-      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/community-test.zip",
-      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/community-test.png"
-    },
-    {
       "id": "portal-2-act-1",
       "name": "Portal 2 - Act 1",
       "author": "Capomaus",
