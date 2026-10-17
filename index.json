@@ -9,6 +9,116 @@
       "sha256": "8376c13e3e39bb09d3dd0bb0f66c9f829d2dd2231f9720de62d611862c1a2d4a",
       "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/community-test.zip",
       "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/community-test.png"
+    },
+    {
+      "id": "portal-2-act-1",
+      "name": "Portal 2 - Act 1",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal 2 main menu, Act 1.",
+      "size": 13271057,
+      "sha256": "212680cf3b780d7e6ae1b0a94e5ba436c2531a67ac5c4c8db7b1abc84fb4c4d2",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-2-act-1.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-2-act-1.png"
+    },
+    {
+      "id": "portal-2-act-2",
+      "name": "Portal 2 - Act 2",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal 2 main menu, Act 2.",
+      "size": 11538294,
+      "sha256": "129c5e31aa66eaaf8c5662ea31dfeac2455f1499c5e6340ad1e0966974d6e9d4",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-2-act-2.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-2-act-2.png"
+    },
+    {
+      "id": "portal-2-act-3",
+      "name": "Portal 2 - Act 3",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal 2 main menu, Act 3.",
+      "size": 10015439,
+      "sha256": "add1640977fb8fe0ce25bcbc721311f495d1323427a3c5227c88e982a91cfbcc",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-2-act-3.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-2-act-3.png"
+    },
+    {
+      "id": "portal-2-act-4",
+      "name": "Portal 2 - Act 4",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal 2 main menu, Act 4.",
+      "size": 10053331,
+      "sha256": "44b0a6882988fb7d6a604b1af58583c4f6932b5498c1c7b6ccb5dd4cedf375bf",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-2-act-4.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-2-act-4.png"
+    },
+    {
+      "id": "portal-2-act-5",
+      "name": "Portal 2 - Act 5",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal 2 main menu, Act 5.",
+      "size": 3818157,
+      "sha256": "4c1f5cc594e69ea248598a3e18260f9b51d370f0c2a7908617d957420d45a6e4",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-2-act-5.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-2-act-5.png"
+    },
+    {
+      "id": "portal-reloaded",
+      "name": "Portal Reloaded",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal Reloaded main menu.",
+      "size": 11797561,
+      "sha256": "34a874b0f99207ea9841a93d8f543f900fa5556c846504af102323535b260d20",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-reloaded.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-reloaded.png"
+    },
+    {
+      "id": "portal-stories-mel-act-1",
+      "name": "Portal Stories: Mel - Act 1",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal Stories: Mel main menu, Act 1.",
+      "size": 8194209,
+      "sha256": "12790dd1e10f60f7ae423264518dea94b6918b4cb819af2c07ddfd364353b803",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-stories-mel-act-1.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-stories-mel-act-1.png"
+    },
+    {
+      "id": "portal-stories-mel-act-2",
+      "name": "Portal Stories: Mel - Act 2",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal Stories: Mel main menu, Act 2.",
+      "size": 5747615,
+      "sha256": "895bee77c298e6bf4ac22b46514ffecbdf62c63406a3e8a61d3a3d3c02437149",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-stories-mel-act-2.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-stories-mel-act-2.png"
+    },
+    {
+      "id": "portal-stories-mel-act-3",
+      "name": "Portal Stories: Mel - Act 3",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal Stories: Mel main menu, Act 3.",
+      "size": 6725785,
+      "sha256": "205fef26ebec488093838daa60966837fbafdc275d2992ebadcad3827b62de62",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-stories-mel-act-3.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-stories-mel-act-3.png"
+    },
+    {
+      "id": "portal-stories-mel-act-4",
+      "name": "Portal Stories: Mel - Act 4",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal Stories: Mel main menu, Act 4.",
+      "size": 11025469,
+      "sha256": "25878814ca493a03a2fc1f965c142161ca298378a2961b295371936561b12539",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-stories-mel-act-4.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-stories-mel-act-4.png"
+    },
+    {
+      "id": "portal-stories-mel-act-5",
+      "name": "Portal Stories: Mel - Act 5",
+      "author": "Capomaus",
+      "description": "Video, music and loading screens from the Portal Stories: Mel main menu, Act 5.",
+      "size": 9914520,
+      "sha256": "d391515954ff82d5d577e62cf74596bf7b7feb7c0d0b536725c283147bdb5953",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-stories-mel-act-5.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/portal-stories-mel-act-5.png"
     }
   ]
 }
