@@ -1,6 +1,16 @@
 {
   "themes": [
     {
+      "id": "chapter-select",
+      "name": "CHAPTER_SELECT",
+      "author": "maybejahmess",
+      "description": "select.....",
+      "size": 313096,
+      "sha256": "9df4e75c142b668d0904fff1a8f83c19ef2b8260a881189696f012c12408784c",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/chapter-select.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/chapter-select.png"
+    },
+    {
       "id": "portal-2-act-1",
       "name": "Portal 2 - Act 1",
       "author": "Capomaus",
