@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "id": "community-test",
+      "name": "Community Test",
+      "author": "Capomaus",
+      "description": "A small sample theme with its own sounds, logo, video and loading screens.",
+      "size": 420961,
+      "sha256": "605d1453c8e836641c93e0b6756bb094ff1eb8602900854701b5f96fc94bf40f",
+      "url": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/community-test.zip",
+      "preview": "https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main/themes/community-test.png"
+    }
+  ]
+}
