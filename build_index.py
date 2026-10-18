@@ -5,7 +5,7 @@ import os
 import sys
 import zipfile
 
-ALLOWED = {"mp4", "ogg", "png", "jpg", "jpeg"}
+ALLOWED = {"mp4", "ogg", "png", "jpg", "jpeg", "json"}
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--base", default="https://raw.githubusercontent.com/Capomaus/portalmenu-themes/main")
@@ -36,6 +36,7 @@ for file in sorted(os.listdir(folder)):
         "name": meta.get("name", theme_id),
         "author": meta.get("author", ""),
         "description": meta.get("description", ""),
+        "category": meta.get("category", ""),
         "size": len(data),
         "sha256": hashlib.sha256(data).hexdigest(),
         "url": args.base + "/themes/" + file,
